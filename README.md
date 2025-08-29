@@ -1,4 +1,4 @@
-# 🧠 Customer Churn Prediction (Intermediate Data Analyst Project)
+# 🧠 Customer Churn Prediction 
 
 This repository contains a complete, intermediate-level data analysis project focused on **predicting customer churn**. It includes a dataset, a Python analysis script, generated charts, and a ready-to-post LinkedIn caption.
 
